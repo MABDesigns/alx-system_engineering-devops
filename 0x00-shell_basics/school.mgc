@@ -1,11 +1,2 @@
-0       string  \0        inode/x-empty
-0       string  SCHOOL    text/plain
->0      string  :         text/plain
->0      string  ..        text/plain
->5      string  .com      text/plain
->5      string  MZ        text/plain
->5      string  #!        text/plain
->5      string  #!/bin/   text/plain
->5      string  #!/bin/bash  text/plain
->0      string  fake_     text/plain
->0      string  file_school  text/plain
+0 string SCHOOL School data
+!:mime School
