@@ -1,1 +1,6 @@
-0 string SCHOOL School data file
+0       string  SCHOOL      School data file
+>5      string  .com        DOS executable
+>5      string  MZ          DOS executable
+>5      string  #!          Shell script
+>5      string  #!/bin/     Shell script
+>5      string  #!/bin/bash Shell script
