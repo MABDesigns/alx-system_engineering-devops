@@ -1,2 +1,12 @@
 0   string   SCHOOL   School data file
 !:mime   text/plain
+>0  string   :        Current Working Directory
+>0  string   ..       Parent Directory
+>5  string   .com     DOS executable
+>5  string   MZ       DOS executable
+>5  string   #!       Shell script
+>5  string   #!/bin/  Shell script
+>5  string   #!/bin/bash  Shell script
+>0  string   fake_school0  text/plain
+>0  string   fake_school1  text/plain
+>0  string   file_school0  School
